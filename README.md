@@ -1,8 +1,8 @@
-Investigation of Residual Stress and Dislocation Density in 316L Stainless Steel Fabricated via Directed Energy Deposition (DED)
-Overview
+#Investigation of Residual Stress and Dislocation Density in 316L Stainless Steel Fabricated via Directed Energy Deposition (DED)
+##Overview
 This project investigates the residual stress and dislocation density in 316L stainless steel fabricated using Directed Energy Deposition (DED). The study focuses on understanding how these factors evolve at various elevated temperatures and their impact on the material's mechanical properties.
 
-Motivation
+##Motivation
 Additive Manufacturing (AM) technologies, like DED, have revolutionized material fabrication by enabling the production of complex, geometrically intricate metal components with high precision. 316L stainless steel is widely used in DED due to its:
 
 Excellent corrosion resistance
